@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Vitor Hugo 
 #
 
- - 🔭 À procura de estágio
- - 🌱 Estudando Engenharia de Software
+ - 🔭 Looking for an internship
+ - 🌱 Studying Software Engineer at FIAP
 <br>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torugo0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
