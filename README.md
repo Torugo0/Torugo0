@@ -9,7 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Torugo0&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&size_weight=0.5&count_weight=0.5&show&icons=true&theme=gruvbox" />
+  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&size_weight=0.5&count_weight=0.5&show&icons=true&theme=gruvbox" />
 </a>
 
 
