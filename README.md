@@ -8,7 +8,11 @@
 <a href="https://github.com/anuraghazra/donut">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&layout=donut&size_weight=0.5&count_weight=0.5&show&icons=true&theme=great-gatsby" />
 </a>
+#
 
+
+
+#
   ##
   <div style="display: inline_block"><br>
     <img align="center" alt="Vitor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
