@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Qwbmt5ZHR5OWxncXV5MTI5eXlob3pjMjBveDNmYThvdXY0b3czOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ffIYwJoEpVcMOYiO/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torugo0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&size_weight=0.5&count_weight=0.9&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&size_weight=0.9&count_weight=0.9&show_icons=true&theme=dark)
 
 
   ##
