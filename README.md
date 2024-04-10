@@ -8,11 +8,16 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&layout=donut&size_weight=0.5&count_weight=0.5&show&icons=true&theme=great-gatsby" />
 </a>
 
-## Sobre mim!
-Atualmente estou cursando Engenharia de Software pela FIAP <br>
-Inglês Intermediário <br>
-Gosto muito de praticar esportes e ler no meu tempo livre.
+## <img height=30 align="center" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif"/> Sobre mim!
+<img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Atualmente estou cursando Engenharia de Software pela FIAP <br>
+<img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Inglês Intermediário <br>
+<img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Gosto muito de praticar esportes e ler no meu tempo livre.
 #
+
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.webp" type="image/webp">
+  
+</picture>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
