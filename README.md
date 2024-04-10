@@ -9,9 +9,8 @@
 </a>
 
 ## Sobre mim!
-<p> Atualmente estou cursando Engenharia de Software pela FIAP</p>
- <br>
-  Inglês Intermediário
+Atualmente estou cursando Engenharia de Software pela FIAP <br>
+Inglês Intermediário
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
