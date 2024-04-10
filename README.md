@@ -3,15 +3,13 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Qwbmt5ZHR5OWxncXV5MTI5eXlob3pjMjBveDNmYThvdXY0b3czOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ffIYwJoEpVcMOYiO/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Torugo0&show_icons=true&theme=gruvbox" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Torugo0&show_icons=false&theme=great-gatsby" />
 </a>
 <a href="https://github.com/anuraghazra/donut">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&size_weight=0.5&count_weight=0.5&show&icons=true&theme=gruvbox" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&layout=donut&size_weight=0.5&count_weight=0.5&show&icons=true&theme=great-gatsby" />
 </a>
 
-
   ##
-  
   <div style="display: inline_block"><br>
     <img align="center" alt="Vitor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Vitor-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
