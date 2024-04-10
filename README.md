@@ -4,6 +4,10 @@
  - 🌱 Studying Software Engineer at FIAP
 <br>
 
+<iframe src="https://giphy.com/embed/oZNgvbrYcIcGZTk1Cm" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/strangefruitsmusic-lofi-lofimusic-lofifruits-oZNgvbrYcIcGZTk1Cm">via GIPHY</a></p>
+
+<br>
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torugo0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark)
 
