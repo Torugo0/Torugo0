@@ -4,7 +4,7 @@
  - 🌱 Studying Software Engineer at FIAP
 <br>
 
-<iframe src="https://giphy.com/embed/oZNgvbrYcIcGZTk1Cm" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/oZNgvbrYcIcGZTk1Cm" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 <br>
 
