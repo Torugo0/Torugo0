@@ -1,8 +1,6 @@
 ### Hello Dev's, welcome to my world !! <br>
 ### I'm Vitor Hugo, 19 years
 #
-
- - 🔭 Looking for an internship
  - 🌱 Studying Software Engineer at FIAP
 <br>
 
