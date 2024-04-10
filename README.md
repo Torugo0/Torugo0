@@ -4,7 +4,7 @@
  - 🌱 Studying Software Engineer at FIAP
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBhZHRpZjhpNHdxNWxqbHh4empxcHp3MTI4NnRzb25jamVmbnJ2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oZNgvbrYcIcGZTk1Cm/giphy.gif" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBhZHRpZjhpNHdxNWxqbHh4empxcHp3MTI4NnRzb25jamVmbnJ2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oZNgvbrYcIcGZTk1Cm/giphy.gif" width="370" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 <br>
 
