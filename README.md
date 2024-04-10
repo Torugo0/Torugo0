@@ -8,7 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&layout=donut&size_weight=0.5&count_weight=0.5&show&icons=true&theme=great-gatsby" />
 </a>
 
-## Sobre mim
+## Sobre mim!
 
 
 <div style="display: inline_block"><br>
@@ -19,6 +19,8 @@
 </div>
 
   ##
+  Atualmente estou cursando Engenharia de Software pela FIAP
+  Inglês Intermediário
 
  <div> 
     <a href="(https://www.linkedin.com/in/vitorhgr/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
