@@ -2,15 +2,24 @@
 #
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Qwbmt5ZHR5OWxncXV5MTI5eXlob3pjMjBveDNmYThvdXY0b3czOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ffIYwJoEpVcMOYiO/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torugo0&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&size_weight=0.5&count_weight=0.5&show&icons=true&theme=gruvbox)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Torugo0&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&size_weight=0.5&count_weight=0.5&show&icons=true&theme=gruvbox" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&size_weight=0.5&count_weight=0.5&show&icons=true&theme=gruvbox" />
 </a>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 
   ##
