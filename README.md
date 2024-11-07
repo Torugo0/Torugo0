@@ -9,7 +9,7 @@
 </a>
 
 ## <img height=30 align="center" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif"/> Sobre mim!
-<img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Atualmente estou cursando Engenharia de Software pela FIAP <br>
+<img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Cursando Engenharia de Software pela FIAP <br>
 <img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Inglês Intermediário <br>
 <img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Gosto muito de praticar esportes e ler no meu tempo livre.
 #
