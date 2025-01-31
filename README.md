@@ -10,7 +10,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&layout=donut&size_weight=0.5&count_weight=0.5&show&icons=true&theme=great-gatsby" />
 </a>
 
-## 🔥 Quem sou eu? / Who am I?  
+## 🔥 Quem sou eu ? / Who am I ?  
 💡 Olá! Meu nome é **Vitor Hugo**, sou estudante de **Engenharia de Software** apaixonado por tecnologia e desenvolvimento de software. Embora meu foco seja **back-end**, estou expandindo minhas habilidades para atuar como **desenvolvedor full stack**, explorando novas tecnologias e frameworks.  
 🚀 Busco constantemente aprender e aplicar novas ferramentas para criar soluções eficientes e escaláveis.  
 🎯 Atualmente, estou focado em **Java, Python, C#, SQL e frameworks modernos para front-end**.  
