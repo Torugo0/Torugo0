@@ -10,8 +10,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&layout=donut&size_weight=0.5&count_weight=0.5&show&icons=true&theme=great-gatsby" />
 </a>
 
-#
-
 ## 🔥 Quem sou eu? / Who am I?  
 💡 Olá! Meu nome é **Vitor Hugo**, sou estudante de **Engenharia de Software** apaixonado por tecnologia e desenvolvimento de software. Embora meu foco seja **back-end**, estou expandindo minhas habilidades para atuar como **desenvolvedor full stack**, explorando novas tecnologias e frameworks.  
 🚀 Busco constantemente aprender e aplicar novas ferramentas para criar soluções eficientes e escaláveis.  
@@ -41,15 +39,20 @@
 
 #
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Vitor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vitor-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Vitor-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Vitor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
- <div> 
-    🚀 ## Vamos conectar? / Let’s connect? <br><br>
-    <a href="https://www.linkedin.com/in/vitorhgr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
-    📧 E-mail: vitorh565.vh@gmail.com 
- </div>
+#
+
+## 🚀 Vamos conectar ? / Let’s connect ? <br>
+<a href="mailto:vitorh565.vh@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/vitorhgr/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+
