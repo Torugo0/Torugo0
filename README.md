@@ -13,7 +13,7 @@
 ## 🔥 Quem sou eu? / Who am I?  
 💡 Olá! Meu nome é **Vitor Hugo**, sou estudante de **Engenharia de Software** apaixonado por tecnologia e desenvolvimento de software. Embora meu foco seja **back-end**, estou expandindo minhas habilidades para atuar como **desenvolvedor full stack**, explorando novas tecnologias e frameworks.  
 🚀 Busco constantemente aprender e aplicar novas ferramentas para criar soluções eficientes e escaláveis.  
-🎯 Atualmente, estou focado em **Java, Python, SQL e frameworks modernos para front-end**.  
+🎯 Atualmente, estou focado em **Java, Python, C#, SQL e frameworks modernos para front-end**.  
 
 💡 Hi! My name is **Vitor Hugo**, and I'm a **Software Engineering** student passionate about technology and software development. While my primary focus is **back-end**, I am expanding my skills towards becoming a **full-stack developer**, exploring new technologies and frameworks.  
 🚀 I'm always looking to learn and apply new tools to create efficient and scalable solutions.  
@@ -31,10 +31,10 @@
 #
 
 ## 🛠️ Tecnologias e Ferramentas que uso / Technologies & Tools I use  
-🎯 **Principais:** Java | Python | SQL  
+🎯 **Principais:** Java | Python | C# | SQL  
 📌 **Outras habilidades:** React | JavaScript | Jupyter Notebook  
 
-🎯 **Main:** Java | Python | SQL  
+🎯 **Main:** Java | Python | C# | SQL  
 📌 **Other skills:** React | JavaScript | Jupyter Notebook
 
 #
