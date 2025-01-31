@@ -32,9 +32,15 @@
 ⚽ **Passionate about sports, technology, and reading in my free time.**  
 #
 
+## 🛠️ Tecnologias e Ferramentas que uso / Technologies & Tools I use  
+🎯 **Principais:** Java | Python | SQL  
+📌 **Outras habilidades:** React | JavaScript | Jupyter Notebook  
+
+🎯 **Main:** Java | Python | SQL  
+📌 **Other skills:** React | JavaScript | Jupyter Notebook
+
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.webp" type="image/webp">
-  
 </picture>
 
 <div style="display: inline_block"><br>
@@ -49,7 +55,7 @@
  <div> 
     <a href="https://www.linkedin.com/in/vitorhgr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-  🚀 Vamos conectar? / Let’s connect?  
+  🚀 Vamos conectar? / Let’s connect? <br>  
   📧 **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)  
   💼 **LinkedIn:** [linkedin.com/in/vitorhgr](https://linkedin.com/in/vitorhgr)  
  
