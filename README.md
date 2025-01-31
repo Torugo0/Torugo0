@@ -12,11 +12,11 @@
  
 ## <img height=30 align="center" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif"/> Sobre mim! / About me!
 🎓 **Estudante de Engenharia de Software na FIAP**  
-🌎 **Inglês avançado/intermediário (B2-C1)**  
+🌎 **Inglês intermediário/avançado (B2-C1)**  
 ⚽ **Apaixonado por esportes**, tecnologia e um bom livro no tempo livre.  
 
 🎓 **Software Engineering student at FIAP**  
-🌎 **Advanced/Upper-Intermediate English (B2-C1)**  
+🌎 **Upper-Intermediate/Advanced English (B2-C1)**  
 ⚽ **Passionate about sports, technology, and reading in my free time.**  
 #
 
