@@ -53,10 +53,7 @@
 #
 
  <div> 
-    🚀 Vamos conectar? / Let’s connect?
-    <a href="https://www.linkedin.com/in/vitorhgr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    🚀 Vamos conectar? / Let’s connect? <br>
+    <a href="https://www.linkedin.com/in/vitorhgr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+    📧 *E-mail:* vitorh565.vh@gmail.com 
  </div>
-  📧 **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)  
-  💼 **LinkedIn:** [linkedin.com/in/vitorhgr](https://linkedin.com/in/vitorhgr)  
- 
- 
