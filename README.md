@@ -9,15 +9,15 @@
 <a href="https://github.com/anuraghazra/donut">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&layout=donut&size_weight=0.5&count_weight=0.5&show&icons=true&theme=great-gatsby" />
 </a>
-
-## <img height=30 align="center" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif"/> Sobre mim!
-<img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Cursando Engenharia de Software pela FIAP <br>
-<img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Inglês Intermediário <br>
-<img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Gosto muito de praticar esportes e ler no meu tempo livre.
-
+ 
+## <img height=30 align="center" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif"/> Sobre mim! / About me!
 🎓 **Estudante de Engenharia de Software na FIAP**  
 🌎 **Inglês avançado/intermediário (B2-C1)**  
 ⚽ **Apaixonado por esportes**, tecnologia e um bom livro no tempo livre.  
+
+🎓 **Software Engineering student at FIAP**  
+🌎 **Advanced/Upper-Intermediate English (B2-C1)**  
+⚽ **Passionate about sports, technology, and reading in my free time.**  
 #
 
 <picture>
