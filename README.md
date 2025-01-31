@@ -1,4 +1,6 @@
-## Oi! (Hi!) Eu sou o Vitor Hugo, bem-vindo(a)!! (I'm Vitor Hugo, welcome!!)
+# 👋 Olá! Seja bem-vindo(a) ao meu perfil!  
+### Hi there! Welcome to my profile!
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Qwbmt5ZHR5OWxncXV5MTI5eXlob3pjMjBveDNmYThvdXY0b3czOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ffIYwJoEpVcMOYiO/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
