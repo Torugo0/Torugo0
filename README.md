@@ -14,6 +14,10 @@
 <img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Cursando Engenharia de Software pela FIAP <br>
 <img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Inglês Intermediário <br>
 <img height =20 src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋"> Gosto muito de praticar esportes e ler no meu tempo livre.
+
+🎓 **Estudante de Engenharia de Software na FIAP**  
+🌎 **Inglês avançado/intermediário (B2-C1)**  
+⚽ **Apaixonado por esportes**, tecnologia e um bom livro no tempo livre.  
 #
 
 <picture>
