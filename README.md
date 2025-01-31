@@ -9,6 +9,18 @@
 <a href="https://github.com/anuraghazra/donut">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&layout=donut&size_weight=0.5&count_weight=0.5&show&icons=true&theme=great-gatsby" />
 </a>
+
+#
+
+## 🔥 Quem sou eu? / Who am I?  
+💡 Olá! Meu nome é **Vitor Hugo**, sou estudante de **Engenharia de Software** apaixonado por tecnologia e desenvolvimento de software. Embora meu foco seja **back-end**, estou expandindo minhas habilidades para atuar como **desenvolvedor full stack**, explorando novas tecnologias e frameworks.  
+🚀 Busco constantemente aprender e aplicar novas ferramentas para criar soluções eficientes e escaláveis.  
+🎯 Atualmente, estou focado em **Java, Python, SQL e frameworks modernos para front-end**.  
+
+💡 Hi! My name is **Vitor Hugo**, and I'm a **Software Engineering** student passionate about technology and software development. While my primary focus is **back-end**, I am expanding my skills towards becoming a **full-stack developer**, exploring new technologies and frameworks.  
+🚀 I'm always looking to learn and apply new tools to create efficient and scalable solutions.  
+🎯 Currently, I'm focused on **Java, Python, SQL, and modern front-end frameworks**.  
+#
  
 ## <img height=30 align="center" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif"/> Sobre mim! / About me!
 🎓 **Estudante de Engenharia de Software na FIAP**  
