@@ -15,7 +15,7 @@ I'm also completing my Bachelor's degree in **Software Engineering at FIAP**, wi
 - 🎓 B.Sc. in Software Engineering at FIAP — Expected Dec 2026
 - ⚙️ Strong interest in Backend Engineering and Full-Stack Development
 - 🌍 Interested in international teams, global products, and distributed environments
-- 📚 Always improving my skills in software architecture, APIs, cloud, and scalable systems
+- 📚 Continuously improving my skills in software architecture, APIs, cloud, and scalable systems
 
 ---
 
@@ -54,13 +54,21 @@ Platform integrated with a virtual reality experience for laparoscopic training.
 
 The project was recognized as a standout academic project at FIAP.
 
+🔗 **Repository:**  
+https://github.com/PanaceaInnovation/HELENA---Sistema-de-Gerenciamento-Academico
+
+---
+
 ### NOUVA
 
 Mobile marketplace for beauty and self-care services, developed as a startup initiative within FIAP.
 
-I contribute to product development, feature definition, business rules, user journeys, and application improvements.
+I contribute to product development, feature definition, business rules, user journeys, and application improvements, with a focus on user experience and scalability.
 
 **Technologies:** React Native, Expo, TypeScript, Firebase
+
+🌐 **Website:**  
+https://sounouva.com.br/
 
 ---
 
@@ -71,18 +79,6 @@ My current career focus is:
 **Software Engineering → Backend Engineering → Full-Stack Development**
 
 I enjoy building reliable applications, designing backend solutions, automating processes, working with APIs and data, and turning business problems into technical solutions.
-
----
-
-## 📊 GitHub
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Torugo0&show_icons=true&theme=github_dark" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torugo0&layout=compact&theme=github_dark" />
-</a>
 
 ---
 
